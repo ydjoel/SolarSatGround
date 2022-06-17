@@ -15,9 +15,9 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 We're using 2 sources of data in our analysis, 
 
 1. Land Based GHI data is sourced from [Solcast website](https://solcast.com/).
-    a. Register at Solcast and you will be provided some free credits.
-    b. The free credits would suffice for recreating this, since analysis is done only for one city (dublin).
-    c. The request would have the following City Name (Dublin here), Time Period ( 7 years here) and Parameters (GHI here).
+..a. Register at Solcast and you will be provided some free credits.
+..b. The free credits would suffice for recreating this, since analysis is done only for one city (dublin).
+..c. The request would have the following City Name (Dublin here), Time Period ( 7 years here) and Parameters (GHI here).
     
 2. Satellite Based GHI data is collected from [Climate Data Store (CDS) website](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) by making API Calls.
 
