@@ -17,4 +17,5 @@ We're using 2 sources of data in our analysis,
 1. Land Based GHI data is sourced from Solcast website.
 2. Satellite Based GHI data is collected from Climate Data Store (CDS) website by making API Calls.
 
+* API calls from CDS servers take many hours to return the data, So we have uploaded Satellite based GHI data under the file name satfiles.zip 
 
