@@ -20,3 +20,4 @@ Registering at Solcast will be provide you some free credits. The free credits w
     
 2. Satellite Based GHI data is collected from [Climate Data Store (CDS) website](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) by making API Calls.
 
+For requesting data through API, we have to install CDS Server & Key. Also have to register at CDS & upon aggreeing to their Terms & Conditions we will be provided an api-key to complete the transcation. After completing the whole setup, you can run download data.ipynb to get Satellite data.[Official Wiki](https://cds.climate.copernicus.eu/api-how-to)
