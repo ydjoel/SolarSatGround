@@ -12,5 +12,9 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 
 ## Data Files
 
-Satellite data has to be called using CDS API, we already have the data. so you could use the sat files for satellite data.
+We're using 2 sources of data in our analysis, 
+
+1. Land Based GHI data is sourced from Solcast website.
+2. Satellite Based GHI data is collected from Climate Data Store (CDS) website by making API Calls.
+
 
